@@ -9,5 +9,5 @@
 -   [✔️] ExpressJs app setup
 -   [✔️] Logger setup
 -   [✔️] Error handling setup
--   [ ] Tests setup
+-   [✔️] Tests setup
 -   [ ] Create template
