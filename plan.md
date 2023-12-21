@@ -1,6 +1,6 @@
 -   [✔️] Git Setup
--   [ ] Node version manager setup
--   [ ] NodeJs project setup
+-   [✔️] Node version manager setup
+-   [✔️] NodeJs project setup
 -   [ ] TypeScript setup
 -   [ ] Prettier setup
 -   [ ] Eslint setup

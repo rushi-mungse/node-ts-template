@@ -1,0 +1,11 @@
+{
+  "name": "auth-microservice",
+  "version": "1.0.0",
+  "description": "This is authentication microservice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rushikesh Mungse <mungse.rushi@gmail.com>",
+  "license": "ISC"
+}
