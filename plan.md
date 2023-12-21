@@ -7,7 +7,7 @@
 -   [✔️] Git hooks setup
 -   [✔️] Application config setup
 -   [✔️] ExpressJs app setup
--   [ ] Logger setup
+-   [✔️] Logger setup
 -   [ ] Error handling setup
 -   [ ] Tests setup
 -   [ ] Create template
