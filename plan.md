@@ -2,7 +2,7 @@
 -   [✔️] Node version manager setup
 -   [✔️] NodeJs project setup
 -   [✔️] TypeScript setup
--   [ ] Prettier setup
+-   [✔️] Prettier setup
 -   [ ] Eslint setup
 -   [ ] Git hooks setup
 -   [ ] Application config setup

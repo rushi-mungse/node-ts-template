@@ -4,11 +4,14 @@
   "description": "This is authentication microservice.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodemon src/server.ts",
+    "formate:fix": "prettier . --write",
+    "formate:check": "prettier . --check"
   },
   "author": "Rushikesh Mungse <mungse.rushi@gmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "prettier": "3.1.1",
     "typescript": "^5.3.3"
   }
 }

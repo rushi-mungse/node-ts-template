@@ -1,0 +1,7 @@
+# Ignore artifacts:
+build
+coverage
+.eslintignore
+tsconfig.json
+package.json
+package-lock.json
