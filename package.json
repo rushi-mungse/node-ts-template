@@ -6,11 +6,18 @@
   "scripts": {
     "test": "nodemon src/server.ts",
     "formate:fix": "prettier . --write",
-    "formate:check": "prettier . --check"
+    "formate:check": "prettier . --check",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "author": "Rushikesh Mungse <mungse.rushi@gmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
     "prettier": "3.1.1",
     "typescript": "^5.3.3"
   }
