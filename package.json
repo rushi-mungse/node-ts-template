@@ -8,8 +8,15 @@
     "formate:fix": "prettier . --write",
     "formate:check": "prettier . --check",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "prepare": "husky install"
   },
+  "lint-staged": {
+    "*.ts": [
+        "npm run lint:fix",
+        "npm run formate:fix"
+    ]
+},
   "author": "Rushikesh Mungse <mungse.rushi@gmail.com>",
   "license": "ISC",
   "devDependencies": {
@@ -18,6 +25,8 @@
     "@typescript-eslint/parser": "^6.15.0",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.2.0",
     "prettier": "3.1.1",
     "typescript": "^5.3.3"
   }

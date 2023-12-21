@@ -3,7 +3,7 @@
 -   [✔️] NodeJs project setup
 -   [✔️] TypeScript setup
 -   [✔️] Prettier setup
--   [ ] Eslint setup
+-   [✔️] Eslint setup
 -   [ ] Git hooks setup
 -   [ ] Application config setup
 -   [ ] ExpressJs app setup
