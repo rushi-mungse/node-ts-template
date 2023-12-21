@@ -8,6 +8,6 @@
 -   [✔️] Application config setup
 -   [✔️] ExpressJs app setup
 -   [✔️] Logger setup
--   [ ] Error handling setup
+-   [✔️] Error handling setup
 -   [ ] Tests setup
 -   [ ] Create template

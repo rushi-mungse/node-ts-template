@@ -13,7 +13,7 @@ export default winston.createLogger({
             level: "info",
             dirname: "logs",
             filename: "combined.log",
-            silent: NODE_ENV === "dev",
+            silent: NODE_ENV === "test",
         }),
 
         new winston.transports.File({

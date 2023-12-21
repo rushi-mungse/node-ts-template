@@ -1,6 +1,5 @@
 import app from "./app";
-import { PORT } from "./config";
-import logger from "./config/logger";
+import { PORT, logger } from "./config";
 
 const startServer = () => {
     try {
