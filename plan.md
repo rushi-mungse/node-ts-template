@@ -1,7 +1,7 @@
 -   [✔️] Git Setup
 -   [✔️] Node version manager setup
 -   [✔️] NodeJs project setup
--   [ ] TypeScript setup
+-   [✔️] TypeScript setup
 -   [ ] Prettier setup
 -   [ ] Eslint setup
 -   [ ] Git hooks setup
